@@ -209,12 +209,20 @@ AI Powered Emergency Response Platform
 
 ---
 
-# 🏅 LeetCode Stats
+
+
+# 🏆 LeetCode
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/radamourya7?theme=dark&font=Poppins&ext=heatmap"/>
+<a href="https://leetcode.com/u/0WTBhOzSrh/">
+<img src="https://img.shields.io/badge/Profile-Visit-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/0WTBhOzSrh?theme=dark&font=Poppins&ext=heatmap"/>
 </p>
 
 ---
