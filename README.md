@@ -1,276 +1,101 @@
-# 👋 Hi, I'm **Sai Mourya Rada**
+# ⚡ Rada Sai Mourya
+> Full-Stack Developer & AI Engineer | Computer Science Student at LPU 🚀
 
-<h3 align="center">
-🚀 Full Stack Developer • AI Engineer • MERN Stack • Problem Solver
-</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sai-mourya-rada/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:radamourya7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+### 🚀 About Me
+I am a passionate B.Tech Computer Science and Engineering student at Lovely Professional University. I focus heavily on creating performant full-stack systems, deploying scalable cloud infrastructure, and advancing real-world AI integrations. 
+
+* 🎓 **Academic:** Pursuing B.Tech CSE (Current CGPA: 7.82).
+* 🧠 **LeetCode & Competitive Coding:** Successfully solved 400+ problems across LeetCode, GFG, and HackerRank.
+* 💡 **Core Interests:** Real-Time Applications, Agentic AI, Automation Systems, and UI/UX Design.
+
+---
+
+### 📊 Dev Control Panel (Live Metrics)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;400%2B+DSA+Problems+Solved;Building+Scalable+Applications;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=radamourya7&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/radamourya7?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/radamourya7?style=for-the-badge"/>
-</p>
-
----
-
-# 💫 About Me
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 **B.Tech Computer Science Student** at Lovely Professional University
-
-📈 **CGPA:** 7.82
-
-💻 **400+ DSA Problems Solved**
-
-🤖 Passionate about
-
-- Artificial Intelligence
-- Agentic AI
-- MERN Stack
-- Cloud Computing
-- DevOps
-- UI/UX
-- System Design
-
-🌱 Currently Learning
-
-- Docker
-- Kubernetes
-- AWS
-- LangChain
-- LangGraph
-- CI/CD
-
-🎯 **Goal**
-
-Become a Software Engineer building AI-powered scalable applications.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sai-mourya-rada/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:radamourya7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/radamourya7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Tech Stack
-
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,php"/>
-</p>
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
-</p>
-
-## ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-## 🛢 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-</p>
-
-## ☁ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux"/>
-</p>
-
-## 🎨 Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🚨 PulseNet
-
-AI Powered Emergency Response Platform
-
-✅ MERN Stack
-
-✅ Socket.IO
-
-✅ Leaflet Maps
-
-✅ Offline First PWA
-
-✅ Agentic AI
-
----
-
-## 🎓 AI Learning Management System
-
-✅ MERN Stack
-
-✅ Docker
-
-✅ AWS
-
-✅ Authentication
-
-✅ Role Based Access
-
----
-
-## 🎵 AI Concert Discovery Platform
-
-✅ PHP
-
-✅ REST API
-
-✅ Ticketmaster API
-
-✅ NLP Search
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=radamourya7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radamourya7&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=radamourya7&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Sai Mourya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radamourya7&layout=compact&theme=radical&hide_border=true" width="48%" alt="Sai Mourya's Top Languages" />
 </p>
 
 <p align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=radamourya7&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radamourya7&theme=radical&hide_border=true" width="98%" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+### 🛠️ Ecosystem & Tech Stack
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=radamourya7&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radamourya7&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action first.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/radamourya7/radamourya7/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-
-
-# 🏆 LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/u/0WTBhOzSrh/">
-<img src="https://img.shields.io/badge/Profile-Visit-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</p>
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/0WTBhOzSrh?theme=dark&font=Poppins&ext=heatmap"/>
-</p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📜 Patents
+### 📂 Featured Implementations
 
-### 🧠 Intelligent Wardrobe Management using Artificial Intelligence
-
-📌 Patent Filed
-
-Application No. **202511048551**
-
----
-
-### 🦾 AI Wearable System for Injury Prediction
-
-📌 Patent Pending
+* 🚨 **PulseNet — AI-Powered Emergency Response Platform (MERN Stack)**
+  * Engineered an offline-first PWA leveraging WebSockets (`Socket.io`) providing sub-2-second alert latency for 100+ active users.
+  * Configured Agentic AI features and geographic visualizations using Leaflet.js maps.
+* 🎓 **AI-Enhanced Learning Management System (MERN Stack)**
+  * Fabricated an academic platform supporting 100+ concurrent active instances, boosting role-based workflow efficiency by 86%.
+  * Containerized the environment with Docker and orchestrated continuous integration and deployment pipelines onto AWS.
+* 🤖 **AI-Powered Concert Discovery System (PHP & REST API)**
+  * Optimized real-time request mapping utilizing the Ticketmaster API alongside customized NLP inputs, slicing user search latency by 92%.
 
 ---
 
-# 📚 Certifications
-
-🏆 NPTEL IIT Hyderabad
-
-🏆 CipherSchools
-
-🏆 freeCodeCamp
-
-🏆 CSEPathshala
+### 💡 Intellectual Property & Patents
+* 📜 **Patent Filed (Application: 202511048551):** *A Method for Intelligent Wardrobe Management and Outfit Recommendation using Artificial Intelligence* — Leveraging ML algorithms to streamline modern lifestyle automation.
+* 🔬 **Patent Pending (Under Evaluation):** *AI-Driven Wearable System for Micro-Injury Risk Prediction & Posture Coaching* — Utilizing physical sensor data streams and adaptive machine learning models.
 
 ---
 
-# 💬 Dev Quote
-
-<p align="center">
-
-> **"First, solve the problem. Then, write the code." — John Johnson**
-
-</p>
+### 🏆 Credentials & Certifications
+* 🎖️ **NPTEL IIT Hyderabad** — Privacy and Security in Online Social Media
+* 🎖️ **CSEPathshala** — Unrevealing Basic Python towards AI/ML
+* 🎖️ **CipherSchools** — Data Structures and Algorithms using C++
+* 🎖️ **freeCodeCamp** — Responsive Web Design
 
 ---
 
-<p align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320">
-
-### ⭐ Thanks for visiting!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</p>
+### 📬 Drop a Line!
+* **LinkedIn:** [/in/sai-mourya-rada](https://www.linkedin.com/in/sai-mourya-rada/)
+* **Email:** radamourya7@gmail.com
