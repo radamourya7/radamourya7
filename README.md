@@ -750,23 +750,19 @@ Current Focus:
 
 # 📈 Contribution Activity
 
-> Replace USERNAME with **radamourya7**
+<p align="center">
 
-```md
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact)
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=radamourya7&theme=github-compact&hide_border=true"/>
 
----
+</p>
 
 # 🐍 Contribution Snake
 
-```md
-![Snake animation](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg)
-```
+<p align="center">
 
-*(Requires a GitHub Action to generate automatically.)*
+<img src="https://raw.githubusercontent.com/radamourya7/radamourya7/output/github-contribution-grid-snake-dark.svg"/>
 
----
+</p>
 
 # 💡 Engineering Philosophy
 
